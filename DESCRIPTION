@@ -1,0 +1,16 @@
+Package: tanExample
+Type: Package
+Title: Example data for the tan package, which implements the Adaptive Neyman test 
+    for ChIP-seq differential analysis
+Version: 0.1.0
+Depends:
+    R (>= 3.3)
+Date: 2017-06-01
+Author: Duy Nguyen, Sunduz Keles
+Maintainer: Duy Nguyen <ddnguyen4@wisc.edu>
+Description: Data for the tan package, consisting of a subset of H3K27me3's regions
+    and their read coverages. This data was obtained from a ChIP-seq experiment cultured 
+    in the presence or absence of 4-hydroxytamoxifen for two weeks. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
