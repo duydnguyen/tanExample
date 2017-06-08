@@ -12,5 +12,4 @@ Global_lower <- 100 # defaul value: Global_lower <- 0
 poolQuant <- 0.5
 # number of points for moving average
 movAve <- 20
-## pooled quantile at each genomic position:
-poolQuant <- 0.5
+
